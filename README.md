@@ -9,6 +9,7 @@ Please use
 05. selenium 3.141.59 Jar Libs
 06. TestNG 6.14.3 Jar Libs
 07. Java SDK 8 Latest
+08. extentreports.2.41.2 Jar Libs (for an Alternative)
 
 Works Fine in Windows 10 64 Bit edition
 Kindly Contact Me if further Help is required
